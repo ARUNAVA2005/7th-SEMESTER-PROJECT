@@ -1,0 +1,19 @@
+Sample role: Full Stack Developer (early career)
+
+Location: Bengaluru or hybrid
+
+We are looking for an early-career developer to build and improve customer-facing web products. The role works across a React and TypeScript frontend and Node.js services, with PostgreSQL data storage.
+
+Responsibilities
+- Build accessible, responsive UI features with React and TypeScript.
+- Develop and integrate REST APIs using Node.js and Express.
+- Work with PostgreSQL schemas and write reliable queries.
+- Add tests, review code, and collaborate through Git-based workflows.
+- Participate in deployments and basic cloud operations on AWS or Docker.
+
+Preferred qualifications
+- 0-3 years of relevant experience, internships, or substantial project work.
+- Understanding of JavaScript, API design, SQL, and software testing.
+- Clear communication and a collaborative approach.
+
+Synthetic demonstration text only; not a real vacancy.

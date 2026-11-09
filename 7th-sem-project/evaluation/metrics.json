@@ -1,0 +1,12 @@
+{
+  "word_overlap_baseline": {
+    "nDCG@5": 0.9165,
+    "precision@5_relevance_2_or_higher": 1.0,
+    "MRR_relevance_2_or_higher": 1.0
+  },
+  "explainable_skill_matcher": {
+    "nDCG@5": 1.0,
+    "precision@5_relevance_2_or_higher": 1.0,
+    "MRR_relevance_2_or_higher": 1.0
+  }
+}

@@ -1,0 +1,24 @@
+Employer sample set
+
+All names and experience details are fictional.
+
+candidate_01_riya_malhotra.pdf
+candidate_02_karan_desai.pdf
+candidate_03_meera_krishnan.pdf
+candidate_04_siddharth_jain.pdf
+candidate_05_aisha_khan.pdf
+candidate_06_manav_reddy.pdf
+candidate_07_pooja_mukherjee.pdf
+candidate_08_rahul_bhat.pdf
+candidate_09_ira_chatterjee.pdf
+candidate_10_aman_sood.pdf
+candidate_11_sana_pillai.pdf
+candidate_12_yash_arora.pdf
+candidate_13_tanya_ghosh.pdf
+candidate_14_arnav_gupta.pdf
+candidate_15_nandini_shetty.pdf
+candidate_16_farhan_mirza.pdf
+candidate_17_lavanya_rao.pdf
+candidate_18_kabir_chawla.pdf
+candidate_19_simran_kaur.pdf
+candidate_20_devika_nambiar.pdf
